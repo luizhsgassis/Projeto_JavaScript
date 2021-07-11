@@ -1,0 +1,1 @@
+Um projetinho em JavaScript que eu aprendi durante o programa do Hiring Coders de 2021 que descidi publicar no GitHub.
